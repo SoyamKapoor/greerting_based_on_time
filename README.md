@@ -13,3 +13,4 @@ This Python script, developed by Soyam Kapoor, greets users based on the current
 *Italic*
 
 [Link Here](https://github.com/)
+![CC_PIC2](https://github.com/user-attachments/assets/df3c18b0-0c6f-467b-a168-578df5c7ace6)
